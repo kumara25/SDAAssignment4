@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/activity_check_out.xml" value="0.2421875" />
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/fragment_book_list.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/fragment_settings.xml" value="0.10104166666666667" />
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/fragment_welcome.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/User/Downloads/SDAAssign4_2022/app/src/main/res/layout/recycler_list_item.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Documents/javadoc" />
+    <option name="OPTION_SCOPE" value="private" />
+    <option name="OTHER_OPTIONS" value="-sourcepath F:\Android\sdk\platforms\android-30" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SDA Assign4_2022</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_ragment">One string</string>
+    <string name="images_desc">Book Thumb</string>
+    <string name="plc_author">Edgar Rice Burroughs</string>
+    <string name="plc_title">Tarzan and the Golden Lion</string>
+    <string name="border">border item</string>
+    <string name="check_out">Check Out</string>
+    <string name="library">library</string>
+    <string name="select_date">Select Date</string>
+    <string name="send_order">Send Order</string>
+    <string name="bookname">BookName</string>
+    <string name="borrower_name">Borrower Name</string>
+    <string name="borrower_id">Borrower ID</string>
+    <string name="email_address">Email address</string>
+    <string name="reset">Reset</string>
+    <string name="save_details">Save Details</string>
+    <string name="welcome">Welcome to DCU\'s Book reservation app.</string>
+    <string name="book_open">Book drop-off opens from 9am to 14:00 every day</string>
+    <string name="fail_to_get_data">Fail to get data.</string>
+    <string name="book_available">Book is available</string>
+    <string name="book_available_date">Book will be available on this date:</string>
+    <string name="current_time_is">current time is</string>
+    <string name="username_is">UserName is</string>
+    <string name="borrower_id_is">Borrower Id is</string>
+    <string name="update_user_setting_alert">Please update settings before attempting to check out a book.</string>
+    <string name="ok">Ok</string>
+    <string name="please_enter_details">Please enter details</string>
+    <string name="please_enter_user_name">Please enter user name</string>
+    <string name="please_enter_valid_email_id">Please enter valid email id</string>
+    <string name="please_enter_borrower_id">Please enter borrower id</string>
+    <string name="successfully_updated_details">Successfully updated details</string>
+    <string name="home">HOME</string>
+    <string name="books">BOOKS</string>
+    <string name="settings">SETTINGS</string>
+</resources>
